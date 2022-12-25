@@ -6,4 +6,9 @@ class Solution(object):
         :type strs: List[str]
         :rtype: str
         """
+
+
+# testcase1: ["flower","flow","flight"]
+# testcase2: ["dog","racecar","car"]
+
 '''
