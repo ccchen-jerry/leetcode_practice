@@ -1,3 +1,4 @@
 .vscode/launch.json
 WeekdayCal/__pycache__
 leetcode
+.DS_Store
