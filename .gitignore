@@ -2,3 +2,4 @@
 WeekdayCal/__pycache__
 leetcode
 .DS_Store
+*.ipynb_checkpoints
